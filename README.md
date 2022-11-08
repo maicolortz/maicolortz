@@ -25,7 +25,12 @@ Editar cualquier publicacion de cualquier usuario
 registrado)
 ```
 ver en deploy 
+
 Link   https://carsmarket.vercel.app/
+
+Ver en github mas detallado
+
+https://github.com/maicolortz/PF-CARS-MARKET
 
 ![image](https://user-images.githubusercontent.com/107804493/200468869-e05e7b45-bd6d-45df-a478-60d8203f8b8f.png)
 ![image](https://user-images.githubusercontent.com/107804493/200469041-04be1d93-e0a7-400f-b809-d41e5277c279.png)
@@ -34,10 +39,15 @@ Link   https://carsmarket.vercel.app/
 
 **PROYECTO INDIVIDUAL EN HENRY**
 
-ver en deploy 
-Link   https://pi-dogs-2o0zyvne6-maicolortz.vercel.app/
-```
+ver en deploy  
 
+https://pi-dogs-2o0zyvne6-maicolortz.vercel.app/
+
+Ver en github mas detallado
+
+https://github.com/maicolortz/PI-Dogs
+
+```
 Estuve desarrollando una single Page de perros, que
 incluye caracteristicas como
 Publicar un perro
