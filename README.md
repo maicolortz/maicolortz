@@ -50,3 +50,10 @@ Publicar un perro
 ![image](https://user-images.githubusercontent.com/107804493/200470198-0c624569-a6da-4c14-9ff2-53a8f1c64fa7.png)
 ![image](https://user-images.githubusercontent.com/107804493/200470428-5dcb3935-ca4f-4e8a-b5d6-751ff9bc39e7.png)
 
+** DESCARGAR CV**  
+
+[cv MAICOL.pdf](https://github.com/maicolortz/maicolortz/files/9957431/cv.MAICOL.pdf)
+
+![image](https://user-images.githubusercontent.com/107804493/200470821-660b18ed-b6df-46c1-a488-563a06fdf10e.png)
+
+
