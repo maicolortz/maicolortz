@@ -1,69 +1,37 @@
-Hola soy MAICOL ORTIZ HERNANDEZ 
+# Maicol Ortiz
 
-![Sin título (Poster (vertical)) (Portada para eBook) (1200 × 800 px) (1200 × 500 px) (1300 × 500 px) (1300 × 400 px)](https://user-images.githubusercontent.com/107804493/200464866-4fb3f299-2470-434f-ab3d-eec5582ad9cc.png)
-Naci en el año 1997 , tengo 25 años y soy un gran entusiasta de la tecnologia web, me encanta crear y diseñar paginas web. Siempre dispuesto a  enfrentar retos nuevos que me hagan crecer como profesional.
+**Desarrollador e-commerce · VTEX · React · TypeScript**
 
-Mis proyectos mas destacados hasta ahora son  el Proyecto Final hecho en Henry y mi proyecto Individual.
+3 años construyendo e-commerce sobre VTEX. Ahora exploro la intersección entre e-commerce e IA: agentes y automatizaciones que le quitan trabajo manual a la operación de una tienda online.
 
-**PROYECTO FINAL**
-```
-Este proyecto fun hecho entre 5 personas: Maicol Ortiz Hernandez, Franco Navarro, Luis Fernando Alvares, jose Manuel Lezema 
-y  Hector Horacio Heredia
+Construyo en público lo que voy aprendiendo en ese cruce.
 
+---
 
-Estuvimos desarrollando una pagina de vehiculos con una amplia variedad de servicios que incluyen :
-🩸Publicar un vehiculo
-🩸Contactar con el vendedor del producto
-🩸servicio de Mercadopago
-🩸notificaciones de email
-🩸Registrarse en la pagina
-🩸Panel de usuario donde podia gestionar sus
-publicaciones ( crear , editar, pausar y marcar como
-vendido)
-🩸Panel de administrador( bloquear usuarios , pausar y
-Editar cualquier publicacion de cualquier usuario
-registrado)
-```
-ver en deploy 
+### Stack
 
-Link   https://carsmarket.vercel.app/
+**E-commerce + IA:** `VTEX IO` · `React` · `TypeScript` · `GraphQL` · `APIs REST` · `Claude API / Automatización`
 
-Ver en github mas detallado
+**Base:** `JavaScript` · `Node.js` · `Tailwind` · `PostgreSQL` · `Git`
 
-https://github.com/maicolortz/PF-CARS-MARKET
+---
 
-![image](https://user-images.githubusercontent.com/107804493/200468869-e05e7b45-bd6d-45df-a478-60d8203f8b8f.png)
-![image](https://user-images.githubusercontent.com/107804493/200469041-04be1d93-e0a7-400f-b809-d41e5277c279.png)
-![image](https://user-images.githubusercontent.com/107804493/200469144-81cbc381-c53d-475e-8f82-62ca70ebf20c.png)
+### Proyectos
 
+**[Gestor de Usuarios](https://react-graphql-typescript.pages.dev/)** — CRUD completo con GraphQL, estado tipado, validaciones de formulario y notificaciones.
+`React · GraphQL · TypeScript · Apollo · Zustand`
 
-**PROYECTO INDIVIDUAL EN HENRY**
+**[Cars-Market](https://carsmarket.vercel.app/)** — Marketplace de e-commerce con pasarela de pagos (MercadoPago), gestión de publicaciones y panel de administración. · [código](https://github.com/maicolortz/PF-CARS-MARKET)
+`React · Node · PostgreSQL · MercadoPago`
 
-ver en deploy  
+**[Pi-Dogs](https://pi-dogs-peach.vercel.app/)** — SPA de razas: búsqueda, publicación, ordenamiento por tamaño/nombre y filtro por temperamento. · [código](https://github.com/maicolortz/PI-Dogs)
+`React · Redux · Node · PostgreSQL`
 
-https://pi-dogs-2o0zyvne6-maicolortz.vercel.app/
+**[Marvel App](https://marvel-vite.vercel.app/)** — SPA con la API oficial de Marvel: búsqueda y detalle de personajes, eventos, series y cómics.
+`React · Vite`
 
-Ver en github mas detallado
+---
 
-https://github.com/maicolortz/PI-Dogs
+### Contacto
 
-```
-Estuve desarrollando una single Page de perros, que
-incluye caracteristicas como
-Publicar un perro
-🩸ordenar perros por tamaño, 
-🩸ordenar por alfabeto
-🩸filtrar por temperamento
-```
-
-![image](https://user-images.githubusercontent.com/107804493/200470058-5e8f7fb1-76b2-4941-b9a2-d2c659adcb6a.png)
-![image](https://user-images.githubusercontent.com/107804493/200470198-0c624569-a6da-4c14-9ff2-53a8f1c64fa7.png)
-![image](https://user-images.githubusercontent.com/107804493/200470428-5dcb3935-ca4f-4e8a-b5d6-751ff9bc39e7.png)
-
-**DESCARGAR** **CV**  
-
-[cv MAICOL.pdf](https://github.com/maicolortz/maicolortz/files/9957431/cv.MAICOL.pdf)
-
-![image](https://user-images.githubusercontent.com/107804493/200470821-660b18ed-b6df-46c1-a488-563a06fdf10e.png)
-
-
+[LinkedIn](https://www.linkedin.com/in/maicol-ortiz2897/) · [Portafolio](https://portfolio-git-main-maicolortz.vercel.app/)
