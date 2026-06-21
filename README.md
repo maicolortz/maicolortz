@@ -34,4 +34,4 @@ Construyo en público lo que voy aprendiendo en ese cruce.
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/maicol-ortiz2897/) · [Portafolio](https://portfolio-git-main-maicolortz.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/maicol-ortiz2897/) · [Portafolio](https://portafolio-maicol-mauve.vercel.app/)
